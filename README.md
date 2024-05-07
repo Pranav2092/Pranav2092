@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, DSA, IoT, AI/ML 
 - 🌱 I’m currently learning Web Development, DSA
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me: contact email- pranavrcs@gmail.com
+- 📫 How to reach me: contact email- pranav2092nitt@gmail.com
 - [pranav-anand-prakash-sharma-resume.pdf](https://github.com/Pranav2092/Pranav2092/files/15137353/pranav-anand-prakash-sharma-resume.pdf)
 
 <!---
