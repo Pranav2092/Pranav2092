@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Web Development, DSA
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me: contact email- pranav2092nitt@gmail.com
-- [pranav-anand-prakash-sharma-resume.pdf](https://github.com/Pranav2092/Pranav2092/files/15137353/pranav-anand-prakash-sharma-resume.pdf)
+- 
+[106122092_PranavAnandPrakashSharma.pdf](https://github.com/user-attachments/files/16353339/106122092_PranavAnandPrakashSharma.pdf)
 
 <!---
 Pranav2092/Pranav2092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
