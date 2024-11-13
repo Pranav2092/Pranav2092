@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development, DSA
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me: contact email- pranav2092nitt@gmail.com
+- Solved 500+ Questions on Leetcode.
 - Resume: [pranav_anand_prakash_sharma_resume.pdf](https://github.com/user-attachments/files/17606801/pranav_anand_prakash_sharma_resume.pdf)
 
 
