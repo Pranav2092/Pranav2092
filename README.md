@@ -7,7 +7,6 @@
 - Technology/Framework/Language: C++,HTML,CSS,JavaScript,SQL,MySQL,MongoDB,C,Python,NodeJS,React,SocketIO,Git,GitHub,VS Code.
 - Resume: [pranav_anand_prakash_sharma_resume.pdf](https://github.com/user-attachments/files/17606801/pranav_anand_prakash_sharma_resume.pdf)
 
-I have accepted 3,852 completions in 12 different coding languages using Codeium from www.codeium.com!![image](https://github.com/user-attachments/assets/f2727131-cb98-469f-868a-6a4bee4151b6)
 
 
 
