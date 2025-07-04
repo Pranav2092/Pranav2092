@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Pranav Anand Prakash Sharma (@Pranav2092)
-- 👀 I’m interested in Web Development, DSA, IoT, AI/ML 
-- 🌱 I’m currently learning Web Development, DSA
+- 👀 I’m interested i DSA, AI/ML, GenAI, LLMs, Web Dev, IoT 
+- 🌱 I’m currently learning DSA, GenAI, LLM, NLP
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me: contact email- pranav2092nitt@gmail.com
-- Solved 500+ Questions on Leetcode.
-- Technology/Framework/Language: C++,HTML,CSS,JavaScript,SQL,MySQL,MongoDB,C,Python,NodeJS,React,SocketIO,Git,GitHub,VS Code.
-
-
+- Solved 600+ Questions on Leetcode.
+- Technology/Framework/Language: C++,HTML,CSS,JavaScript,SQL,MySQL,MongoDB,C,Python,NodeJS,React,SocketIO,Git,GitHub,VS Code, LLMs,RAG,GenAI,NLP,Pytorch.
 
 
 <!---
